@@ -88,7 +88,7 @@ nav{
     justify-content: space-between;
     padding: 20vh 5vw 0 10vw;
     font-family: 'Open Sans', sans-serif;
-
+    width: 95vw;
 }
 
 .details-left img{
